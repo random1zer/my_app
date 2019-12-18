@@ -1,0 +1,286 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BIN	expense_log_app/expense_log/backend/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/backend/node_modules/mquery/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/body-parser/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/compression/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/detect-port-alt/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/eslint-import-resolver-node/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/eslint-module-utils/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/eslint-plugin-import/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/expand-brackets/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/express/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/finalhandler/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/send/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/serve-index/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BIN	expense_log_app/expense_log/node_modules/snapdragon/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m	line:6
+BROWSERIFY	expense_log_app/expense_log/backend/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/backend/node_modules/mquery/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/body-parser/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/compression/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/detect-port-alt/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/eslint-import-resolver-node/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/eslint-module-utils/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/eslint-plugin-import/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/expand-brackets/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/express/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/finalhandler/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/send/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/serve-index/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+BROWSERIFY	expense_log_app/expense_log/node_modules/snapdragon/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m	line:16
+CHANGELOG_ERROR	expense_log_app/expense_log/node_modules/array-includes/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m	line:37
+CHANGELOG_ERROR	expense_log_app/expense_log/node_modules/es-abstract/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m	line:37
+CHANGELOG_ERROR	expense_log_app/expense_log/node_modules/es-to-primitive/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m	line:37
+CHANGELOG_ERROR	expense_log_app/expense_log/node_modules/is-callable/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m	line:37
+CHANGELOG_ERROR	expense_log_app/expense_log/node_modules/is-date-object/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m	line:37
+CHANGELOG_ERROR	expense_log_app/expense_log/node_modules/is-regex/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m	line:37
+CHANGELOG_ERROR	expense_log_app/expense_log/node_modules/is-symbol/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m	line:37
+CHANGELOG_ERROR	expense_log_app/expense_log/node_modules/object.getownpropertydescriptors/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m	line:37
+COFFEE	expense_log_app/expense_log/node_modules/sockjs/Makefile	/^COFFEE:=.\/node_modules\/.bin\/coffee$/;"	m	line:3
+DEBUG	expense_log_app/expense_log/node_modules/open/xdg-open	/^DEBUG()$/;"	f	line:130
+DEBUG	expense_log_app/expense_log/node_modules/opn/xdg-open	/^DEBUG()$/;"	f	line:130
+EXAMPLES	expense_log_app/expense_log/node_modules/progress/Makefile	/^EXAMPLES = $(foreach EXAMPLE, $(wildcard examples\/*.js), $(EXAMPLE))$/;"	m	line:2
+JSL	expense_log_app/expense_log/node_modules/extsprintf/Makefile	/^JSL		 = jsl$/;"	m	line:14
+JSL_CONF_NODE	expense_log_app/expense_log/node_modules/extsprintf/Makefile	/^JSL_CONF_NODE	 = jsl.node.conf$/;"	m	line:19
+JSL_FILES_NODE	expense_log_app/expense_log/node_modules/extsprintf/Makefile	/^JSL_FILES_NODE   = $(JS_FILES)$/;"	m	line:17
+JSSTYLE	expense_log_app/expense_log/node_modules/extsprintf/Makefile	/^JSSTYLE		 = jsstyle$/;"	m	line:15
+JSSTYLE_FILES	expense_log_app/expense_log/node_modules/chrome-trace-event/Makefile	/^JSSTYLE_FILES := $(shell find lib test -name "*.js")$/;"	m	line:3
+JSSTYLE_FILES	expense_log_app/expense_log/node_modules/extsprintf/Makefile	/^JSSTYLE_FILES	 = $(JS_FILES)$/;"	m	line:18
+JS_FILES	expense_log_app/expense_log/node_modules/extsprintf/Makefile	/^JS_FILES	:= $(shell find examples lib -name '*.js')$/;"	m	line:16
+NODE	expense_log_app/expense_log/backend/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/backend/node_modules/mquery/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/body-parser/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/compression/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/detect-port-alt/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/eslint-import-resolver-node/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/eslint-module-utils/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/eslint-plugin-import/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/expand-brackets/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/express/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/finalhandler/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/send/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/serve-index/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE	expense_log_app/expense_log/node_modules/snapdragon/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m	line:13
+NODE_OPTS	expense_log_app/expense_log/node_modules/json-stringify-safe/Makefile	/^NODE_OPTS =$/;"	m	line:1
+PATH	expense_log_app/expense_log/backend/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/backend/node_modules/mquery/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/array-includes/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m	line:11
+PATH	expense_log_app/expense_log/node_modules/body-parser/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/compression/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/detect-port-alt/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/es-abstract/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m	line:11
+PATH	expense_log_app/expense_log/node_modules/es-to-primitive/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m	line:11
+PATH	expense_log_app/expense_log/node_modules/eslint-import-resolver-node/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/eslint-module-utils/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/eslint-plugin-import/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/expand-brackets/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/express/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/finalhandler/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/is-callable/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m	line:11
+PATH	expense_log_app/expense_log/node_modules/is-date-object/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m	line:11
+PATH	expense_log_app/expense_log/node_modules/is-regex/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m	line:11
+PATH	expense_log_app/expense_log/node_modules/is-symbol/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m	line:11
+PATH	expense_log_app/expense_log/node_modules/object.getownpropertydescriptors/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m	line:11
+PATH	expense_log_app/expense_log/node_modules/send/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/serve-index/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PATH	expense_log_app/expense_log/node_modules/snapdragon/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m	line:9
+PKG	expense_log_app/expense_log/backend/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/backend/node_modules/mquery/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/body-parser/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/compression/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/detect-port-alt/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/eslint-import-resolver-node/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/eslint-module-utils/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/eslint-plugin-import/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/expand-brackets/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/express/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/finalhandler/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/send/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/serve-index/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+PKG	expense_log_app/expense_log/node_modules/snapdragon/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m	line:15
+SHELL	expense_log_app/expense_log/backend/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/backend/node_modules/mquery/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/body-parser/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/compression/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/delayed-stream/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:1
+SHELL	expense_log_app/expense_log/node_modules/detect-port-alt/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/eslint-import-resolver-node/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/eslint-module-utils/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/eslint-plugin-import/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/expand-brackets/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/express/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/finalhandler/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/retry/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:1
+SHELL	expense_log_app/expense_log/node_modules/send/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/serve-index/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+SHELL	expense_log_app/expense_log/node_modules/snapdragon/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m	line:10
+TAPE	expense_log_app/expense_log/node_modules/chrome-trace-event/Makefile	/^TAPE = .\/node_modules\/.bin\/tape$/;"	m	line:2
+TEST_OPTS	expense_log_app/expense_log/node_modules/json-stringify-safe/Makefile	/^TEST_OPTS =$/;"	m	line:2
+THIS_DIR	expense_log_app/expense_log/backend/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/backend/node_modules/mquery/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/body-parser/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/compression/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/detect-port-alt/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/eslint-import-resolver-node/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/eslint-module-utils/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/eslint-plugin-import/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/expand-brackets/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/express/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/finalhandler/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/send/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/serve-index/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_DIR	expense_log_app/expense_log/node_modules/snapdragon/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m	line:3
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/backend/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/backend/node_modules/mquery/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/body-parser/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/compression/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/detect-port-alt/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/eslint-import-resolver-node/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/eslint-module-utils/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/eslint-plugin-import/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/expand-brackets/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/express/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/finalhandler/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/send/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/serve-index/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+THIS_MAKEFILE_PATH	expense_log_app/expense_log/node_modules/snapdragon/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m	line:2
+UTILS	expense_log_app/expense_log/node_modules/array-includes/Makefile	/^UTILS := semver$/;"	m	line:12
+UTILS	expense_log_app/expense_log/node_modules/es-abstract/Makefile	/^UTILS := semver$/;"	m	line:12
+UTILS	expense_log_app/expense_log/node_modules/es-to-primitive/Makefile	/^UTILS := semver$/;"	m	line:12
+UTILS	expense_log_app/expense_log/node_modules/is-callable/Makefile	/^UTILS := semver$/;"	m	line:12
+UTILS	expense_log_app/expense_log/node_modules/is-date-object/Makefile	/^UTILS := semver$/;"	m	line:12
+UTILS	expense_log_app/expense_log/node_modules/is-regex/Makefile	/^UTILS := semver$/;"	m	line:12
+UTILS	expense_log_app/expense_log/node_modules/is-symbol/Makefile	/^UTILS := semver$/;"	m	line:12
+UTILS	expense_log_app/expense_log/node_modules/object.getownpropertydescriptors/Makefile	/^UTILS := semver$/;"	m	line:12
+UTIL_CHECK	expense_log_app/expense_log/node_modules/array-includes/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m	line:14
+UTIL_CHECK	expense_log_app/expense_log/node_modules/es-abstract/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m	line:14
+UTIL_CHECK	expense_log_app/expense_log/node_modules/es-to-primitive/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m	line:14
+UTIL_CHECK	expense_log_app/expense_log/node_modules/is-callable/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m	line:14
+UTIL_CHECK	expense_log_app/expense_log/node_modules/is-date-object/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m	line:14
+UTIL_CHECK	expense_log_app/expense_log/node_modules/is-regex/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m	line:14
+UTIL_CHECK	expense_log_app/expense_log/node_modules/is-symbol/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m	line:14
+UTIL_CHECK	expense_log_app/expense_log/node_modules/object.getownpropertydescriptors/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m	line:14
+VERSIONED_FILES	expense_log_app/expense_log/node_modules/array-includes/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m	line:5
+VERSIONED_FILES	expense_log_app/expense_log/node_modules/es-abstract/Makefile	/^VERSIONED_FILES := *.js *\/*.js *.json README*$/;"	m	line:5
+VERSIONED_FILES	expense_log_app/expense_log/node_modules/es-to-primitive/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m	line:5
+VERSIONED_FILES	expense_log_app/expense_log/node_modules/is-callable/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m	line:5
+VERSIONED_FILES	expense_log_app/expense_log/node_modules/is-date-object/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m	line:5
+VERSIONED_FILES	expense_log_app/expense_log/node_modules/is-regex/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m	line:5
+VERSIONED_FILES	expense_log_app/expense_log/node_modules/is-symbol/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m	line:5
+VERSIONED_FILES	expense_log_app/expense_log/node_modules/object.getownpropertydescriptors/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m	line:5
+YARN	expense_log_app/expense_log/backend/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/backend/node_modules/mquery/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/body-parser/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/compression/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/detect-port-alt/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/eslint-import-resolver-node/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/eslint-module-utils/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/eslint-plugin-import/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/expand-brackets/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/express/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/finalhandler/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/send/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/serve-index/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+YARN	expense_log_app/expense_log/node_modules/snapdragon/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m	line:14
+_npm_completion	expense_log_app/expense_log/node_modules/object.assign/test.sh	/^  _npm_completion () {$/;"	f	line:14
+_npm_completion	expense_log_app/expense_log/node_modules/object.assign/test.sh	/^  _npm_completion () {$/;"	f	line:36
+_npm_completion	expense_log_app/expense_log/node_modules/object.assign/test.sh	/^  _npm_completion() {$/;"	f	line:25
+binary_to_desktop_file	expense_log_app/expense_log/node_modules/open/xdg-open	/^binary_to_desktop_file()$/;"	f	line:147
+binary_to_desktop_file	expense_log_app/expense_log/node_modules/opn/xdg-open	/^binary_to_desktop_file()$/;"	f	line:147
+check_common_commands	expense_log_app/expense_log/node_modules/open/xdg-open	/^check_common_commands()$/;"	f	line:353
+check_common_commands	expense_log_app/expense_log/node_modules/opn/xdg-open	/^check_common_commands()$/;"	f	line:353
+check_input_file	expense_log_app/expense_log/node_modules/open/xdg-open	/^check_input_file()$/;"	f	line:306
+check_input_file	expense_log_app/expense_log/node_modules/opn/xdg-open	/^check_input_file()$/;"	f	line:306
+check_output_file	expense_log_app/expense_log/node_modules/open/xdg-open	/^check_output_file()$/;"	f	line:334
+check_output_file	expense_log_app/expense_log/node_modules/opn/xdg-open	/^check_output_file()$/;"	f	line:334
+check_vendor_prefix	expense_log_app/expense_log/node_modules/open/xdg-open	/^check_vendor_prefix()$/;"	f	line:316
+check_vendor_prefix	expense_log_app/expense_log/node_modules/opn/xdg-open	/^check_vendor_prefix()$/;"	f	line:316
+desktop_file_to_binary	expense_log_app/expense_log/node_modules/open/xdg-open	/^desktop_file_to_binary()$/;"	f	line:177
+desktop_file_to_binary	expense_log_app/expense_log/node_modules/opn/xdg-open	/^desktop_file_to_binary()$/;"	f	line:177
+detectDE	expense_log_app/expense_log/node_modules/open/xdg-open	/^detectDE()$/;"	f	line:394
+detectDE	expense_log_app/expense_log/node_modules/opn/xdg-open	/^detectDE()$/;"	f	line:394
+exit_failure_file_missing	expense_log_app/expense_log/node_modules/open/xdg-open	/^exit_failure_file_missing()$/;"	f	line:249
+exit_failure_file_missing	expense_log_app/expense_log/node_modules/opn/xdg-open	/^exit_failure_file_missing()$/;"	f	line:249
+exit_failure_file_permission_read	expense_log_app/expense_log/node_modules/open/xdg-open	/^exit_failure_file_permission_read()$/;"	f	line:285
+exit_failure_file_permission_read	expense_log_app/expense_log/node_modules/opn/xdg-open	/^exit_failure_file_permission_read()$/;"	f	line:285
+exit_failure_file_permission_write	expense_log_app/expense_log/node_modules/open/xdg-open	/^exit_failure_file_permission_write()$/;"	f	line:297
+exit_failure_file_permission_write	expense_log_app/expense_log/node_modules/opn/xdg-open	/^exit_failure_file_permission_write()$/;"	f	line:297
+exit_failure_operation_failed	expense_log_app/expense_log/node_modules/open/xdg-open	/^exit_failure_operation_failed()$/;"	f	line:273
+exit_failure_operation_failed	expense_log_app/expense_log/node_modules/opn/xdg-open	/^exit_failure_operation_failed()$/;"	f	line:273
+exit_failure_operation_impossible	expense_log_app/expense_log/node_modules/open/xdg-open	/^exit_failure_operation_impossible()$/;"	f	line:261
+exit_failure_operation_impossible	expense_log_app/expense_log/node_modules/opn/xdg-open	/^exit_failure_operation_impossible()$/;"	f	line:261
+exit_failure_syntax	expense_log_app/expense_log/node_modules/open/xdg-open	/^exit_failure_syntax()$/;"	f	line:233
+exit_failure_syntax	expense_log_app/expense_log/node_modules/opn/xdg-open	/^exit_failure_syntax()$/;"	f	line:233
+exit_success	expense_log_app/expense_log/node_modules/open/xdg-open	/^exit_success()$/;"	f	line:217
+exit_success	expense_log_app/expense_log/node_modules/opn/xdg-open	/^exit_success()$/;"	f	line:217
+file_url_to_path	expense_log_app/expense_log/node_modules/open/xdg-open	/^file_url_to_path()$/;"	f	line:572
+file_url_to_path	expense_log_app/expense_log/node_modules/opn/xdg-open	/^file_url_to_path()$/;"	f	line:572
+first_word	expense_log_app/expense_log/node_modules/open/xdg-open	/^first_word()$/;"	f	line:139
+first_word	expense_log_app/expense_log/node_modules/opn/xdg-open	/^first_word()$/;"	f	line:139
+get_key	expense_log_app/expense_log/node_modules/open/xdg-open	/^get_key()$/;"	f	line:530
+get_key	expense_log_app/expense_log/node_modules/opn/xdg-open	/^get_key()$/;"	f	line:530
+has_display	expense_log_app/expense_log/node_modules/open/xdg-open	/^has_display()$/;"	f	line:511
+has_display	expense_log_app/expense_log/node_modules/opn/xdg-open	/^has_display()$/;"	f	line:511
+has_single_argument	expense_log_app/expense_log/node_modules/open/xdg-open	/^has_single_argument()$/;"	f	line:857
+has_single_argument	expense_log_app/expense_log/node_modules/opn/xdg-open	/^has_single_argument()$/;"	f	line:857
+is_file_url_or_path	expense_log_app/expense_log/node_modules/open/xdg-open	/^is_file_url_or_path()$/;"	f	line:560
+is_file_url_or_path	expense_log_app/expense_log/node_modules/opn/xdg-open	/^is_file_url_or_path()$/;"	f	line:560
+kfmclient_fix_exit_code	expense_log_app/expense_log/node_modules/open/xdg-open	/^kfmclient_fix_exit_code()$/;"	f	line:496
+kfmclient_fix_exit_code	expense_log_app/expense_log/node_modules/opn/xdg-open	/^kfmclient_fix_exit_code()$/;"	f	line:496
+last_word	expense_log_app/expense_log/node_modules/open/xdg-open	/^last_word()$/;"	f	line:521
+last_word	expense_log_app/expense_log/node_modules/opn/xdg-open	/^last_word()$/;"	f	line:521
+manualpage	expense_log_app/expense_log/node_modules/open/xdg-open	/^manualpage()$/;"	f	line:36
+manualpage	expense_log_app/expense_log/node_modules/opn/xdg-open	/^manualpage()$/;"	f	line:36
+n	expense_log_app/expense_log/node_modules/array-includes/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m	line:58
+n	expense_log_app/expense_log/node_modules/es-abstract/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m	line:58
+n	expense_log_app/expense_log/node_modules/es-to-primitive/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m	line:58
+n	expense_log_app/expense_log/node_modules/is-callable/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m	line:58
+n	expense_log_app/expense_log/node_modules/is-date-object/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m	line:58
+n	expense_log_app/expense_log/node_modules/is-regex/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m	line:58
+n	expense_log_app/expense_log/node_modules/is-symbol/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m	line:58
+n	expense_log_app/expense_log/node_modules/object.getownpropertydescriptors/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m	line:58
+open_cygwin	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_cygwin()$/;"	f	line:588
+open_cygwin	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_cygwin()$/;"	f	line:588
+open_darwin	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_darwin()$/;"	f	line:599
+open_darwin	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_darwin()$/;"	f	line:599
+open_dde	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_dde()$/;"	f	line:633
+open_dde	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_dde()$/;"	f	line:633
+open_enlightenment	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_enlightenment()$/;"	f	line:722
+open_enlightenment	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_enlightenment()$/;"	f	line:722
+open_envvar	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_envvar()$/;"	f	line:862
+open_envvar	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_envvar()$/;"	f	line:862
+open_flatpak	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_flatpak()$/;"	f	line:737
+open_flatpak	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_flatpak()$/;"	f	line:737
+open_generic	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_generic()$/;"	f	line:890
+open_generic	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_generic()$/;"	f	line:890
+open_generic_xdg_file_mime	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_generic_xdg_file_mime()$/;"	f	line:842
+open_generic_xdg_file_mime	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_generic_xdg_file_mime()$/;"	f	line:842
+open_generic_xdg_mime	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_generic_xdg_mime()$/;"	f	line:824
+open_generic_xdg_mime	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_generic_xdg_mime()$/;"	f	line:824
+open_generic_xdg_x_scheme_handler	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_generic_xdg_x_scheme_handler()$/;"	f	line:848
+open_generic_xdg_x_scheme_handler	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_generic_xdg_x_scheme_handler()$/;"	f	line:848
+open_gnome	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_gnome()$/;"	f	line:665
+open_gnome	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_gnome()$/;"	f	line:665
+open_gnome3	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_gnome3()$/;"	f	line:648
+open_gnome3	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_gnome3()$/;"	f	line:648
+open_kde	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_kde()$/;"	f	line:610
+open_kde	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_kde()$/;"	f	line:610
+open_lxde	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_lxde()$/;"	f	line:938
+open_lxde	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_lxde()$/;"	f	line:938
+open_lxqt	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_lxqt()$/;"	f	line:962
+open_lxqt	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_lxqt()$/;"	f	line:962
+open_mate	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_mate()$/;"	f	line:684
+open_mate	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_mate()$/;"	f	line:684
+open_xfce	expense_log_app/expense_log/node_modules/open/xdg-open	/^open_xfce()$/;"	f	line:703
+open_xfce	expense_log_app/expense_log/node_modules/opn/xdg-open	/^open_xfce()$/;"	f	line:703
+print	expense_log_app/expense_log/node_modules/@cnakazawa/watch/scripts/release.sh	/^print() {$/;"	f	line:16
+run	expense_log_app/expense_log/node_modules/@cnakazawa/watch/scripts/release.sh	/^run() {$/;"	f	line:20
+search_desktop_file	expense_log_app/expense_log/node_modules/open/xdg-open	/^search_desktop_file()$/;"	f	line:755
+search_desktop_file	expense_log_app/expense_log/node_modules/opn/xdg-open	/^search_desktop_file()$/;"	f	line:755
+usage	expense_log_app/expense_log/node_modules/@cnakazawa/watch/scripts/release.sh	/^usage() {$/;"	f	line:11
+usage	expense_log_app/expense_log/node_modules/open/xdg-open	/^usage()$/;"	f	line:109
+usage	expense_log_app/expense_log/node_modules/opn/xdg-open	/^usage()$/;"	f	line:109
